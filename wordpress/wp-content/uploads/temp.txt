@@ -1,0 +1,3 @@
+/var/www/html/wp-content/themes/twentynineteen
+/var/www/html/wp-content/themes/twentytwenty
+/var/www/html/wp-content/themes/twentytwentyone
